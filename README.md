@@ -3,7 +3,6 @@
 My name is Chris I am a systems engineer, with a background in large scale distributed systems, I also love anything with a motor and have a background in mechanical engineering.
 
 - 🔭 I’m currently working on the future of distributed databases
-- 🌱 I’m currently learning Rust
 
 
 <!--
